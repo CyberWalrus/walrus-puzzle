@@ -154,6 +154,7 @@ module.exports = {
         'jsx-a11y/media-has-caption': 0,
         'jsx-a11y/no-static-element-interactions': 0, // Можем не давать роли html элементам
         'jsx-a11y/click-events-have-key-events': 0, // Можем не давать click events элементам дополнительный слушатель keyboard
+        'import/prefer-default-export': 0,
 
         'simple-import-sort/imports': [
             2,
